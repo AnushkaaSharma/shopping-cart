@@ -8,19 +8,19 @@ var products = [
     new Product({
         imagePath: 'https://www.shutterstock.com/category/nature',
         title:'Nature',
-        descrition: 'Awesome Nature',
+        descrition: 'Awesome Nature!!!',
         price: 10
     }),
     new Product({
         imagePath: 'https://www.shutterstock.com/category/nature',
         title:'Nature',
-        descrition: 'Awe Nature',
+        descrition: 'Awe Nature!!!',
         price: 20
     }),
     new Product({
         imagePath: 'https://www.shutterstock.com/category/nature',
         title:'Nature',
-        descrition: ' Nature',
+        descrition: ' Nature!!!',
         price: 30
     }),
 ];

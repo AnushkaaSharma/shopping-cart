@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.navbar{
+    background-color:#445a67;
+}
+
+.navbar-brand{
+    font-family:"Dancing Script";
+    color:white !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+}
+
+.nav-link{
+    color:white !important;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top:10px;
+}
+
+.card{
+    margin-top:100px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    float:right;
+}
+
+.footer{
+    height:100px;
+    background-color:#445a67;
+    color:white;
+}
+
+.signup{
+    margin-top:50px;
+
+}
+
+.signup h1{
+    text-align:center;
+    margin-top:20px;
+}
+
+.btn-primary{
+    border-radius:5px;
+    margin-top:30px;
+    float:left;
+    margin-left:47%;
+}
+
+.form-control{
+    width:40% !important;
+}
+
+.form-group{
+    margin-left:30%;
+}
+
+.label{
+    margin-top:20px;
+}
+
